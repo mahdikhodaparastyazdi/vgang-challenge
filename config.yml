@@ -1,0 +1,6 @@
+get_vgang_data_api_url: "https://vgang.io"
+output_format: "file"
+output_file_path: "result.txt"
+data_getter_worker_size: 200
+data_renderer_worker_size: 200
+
